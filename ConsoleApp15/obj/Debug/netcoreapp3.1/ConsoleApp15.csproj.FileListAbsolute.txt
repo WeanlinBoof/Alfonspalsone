@@ -1,0 +1,16 @@
+C:\Users\Anders H. Andersson\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.csprojAssemblyReference.cache
+C:\Users\Anders H. Andersson\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.AssemblyInfoInputs.cache
+C:\Users\Anders H. Andersson\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.AssemblyInfo.cs
+C:\Users\Anders H. Andersson\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\Anders H. Andersson\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.exe
+C:\Users\Anders H. Andersson\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.deps.json
+C:\Users\Anders H. Andersson\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.runtimeconfig.json
+C:\Users\Anders H. Andersson\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.runtimeconfig.dev.json
+C:\Users\Anders H. Andersson\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.dll
+C:\Users\Anders H. Andersson\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.pdb
+C:\Users\Anders H. Andersson\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\LiteNetLib.dll
+C:\Users\Anders H. Andersson\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\LiteNetLib.pdb
+C:\Users\Anders H. Andersson\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.csproj.CopyComplete
+C:\Users\Anders H. Andersson\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.dll
+C:\Users\Anders H. Andersson\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.pdb
+C:\Users\Anders H. Andersson\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.genruntimeconfig.cache
