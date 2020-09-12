@@ -1,19 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anders H. Andersson\\source\\repos\\ConsoleApp15\\ConsoleApp15\\ConsoleApp15.csproj": {}
+    "C:\\Users\\Anders H. Andersson\\source\\repos\\ConsoleApp15\\Alfonspalsone\\ConsoleApp15\\ConsoleApp15.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anders H. Andersson\\Desktop\\LiteNetLib\\LiteNetLib.csproj": {
+    "C:\\Users\\Anders H. Andersson\\source\\repos\\ConsoleApp15\\Alfonspalsone\\ConsoleApp15\\ConsoleApp15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anders H. Andersson\\Desktop\\LiteNetLib\\LiteNetLib.csproj",
-        "projectName": "LiteNetLib",
-        "projectPath": "C:\\Users\\Anders H. Andersson\\Desktop\\LiteNetLib\\LiteNetLib.csproj",
+        "projectUniqueName": "C:\\Users\\Anders H. Andersson\\source\\repos\\ConsoleApp15\\Alfonspalsone\\ConsoleApp15\\ConsoleApp15.csproj",
+        "projectName": "ConsoleApp15",
+        "projectPath": "C:\\Users\\Anders H. Andersson\\source\\repos\\ConsoleApp15\\Alfonspalsone\\ConsoleApp15\\ConsoleApp15.csproj",
         "packagesPath": "C:\\Users\\Anders H. Andersson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anders H. Andersson\\Desktop\\LiteNetLib\\obj\\",
+        "outputPath": "C:\\Users\\Anders H. Andersson\\source\\repos\\ConsoleApp15\\Alfonspalsone\\ConsoleApp15\\obj\\",
         "projectStyle": "PackageReference",
-        "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
@@ -31,7 +30,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Anders H. Andersson\\source\\repos\\ConsoleApp15\\Alfonspalsone\\LiteNetLib\\LiteNetLib.csproj": {
+                "projectPath": "C:\\Users\\Anders H. Andersson\\source\\repos\\ConsoleApp15\\Alfonspalsone\\LiteNetLib\\LiteNetLib.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -61,15 +64,16 @@
         }
       }
     },
-    "C:\\Users\\Anders H. Andersson\\source\\repos\\ConsoleApp15\\ConsoleApp15\\ConsoleApp15.csproj": {
+    "C:\\Users\\Anders H. Andersson\\source\\repos\\ConsoleApp15\\Alfonspalsone\\LiteNetLib\\LiteNetLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anders H. Andersson\\source\\repos\\ConsoleApp15\\ConsoleApp15\\ConsoleApp15.csproj",
-        "projectName": "ConsoleApp15",
-        "projectPath": "C:\\Users\\Anders H. Andersson\\source\\repos\\ConsoleApp15\\ConsoleApp15\\ConsoleApp15.csproj",
+        "projectUniqueName": "C:\\Users\\Anders H. Andersson\\source\\repos\\ConsoleApp15\\Alfonspalsone\\LiteNetLib\\LiteNetLib.csproj",
+        "projectName": "LiteNetLib",
+        "projectPath": "C:\\Users\\Anders H. Andersson\\source\\repos\\ConsoleApp15\\Alfonspalsone\\LiteNetLib\\LiteNetLib.csproj",
         "packagesPath": "C:\\Users\\Anders H. Andersson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anders H. Andersson\\source\\repos\\ConsoleApp15\\ConsoleApp15\\obj\\",
+        "outputPath": "C:\\Users\\Anders H. Andersson\\source\\repos\\ConsoleApp15\\Alfonspalsone\\LiteNetLib\\obj\\",
         "projectStyle": "PackageReference",
+        "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
@@ -87,11 +91,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {
-              "C:\\Users\\Anders H. Andersson\\Desktop\\LiteNetLib\\LiteNetLib.csproj": {
-                "projectPath": "C:\\Users\\Anders H. Andersson\\Desktop\\LiteNetLib\\LiteNetLib.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
